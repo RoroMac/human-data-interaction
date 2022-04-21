@@ -4,6 +4,8 @@ The homework assignment HCDE410: Human Data Interaction A2. Assignment cloned fr
 
 
 ### Datasets
+
+**Please unpack the existing annotationdatasets.zip**
 The datasets used in the main jupyter file can be found in annotationdatasets folder. The data files come from the [Wikipedia Talk Corpus](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release) and can be found downloaded from [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731) for free under the Wikimedia open access policy. There are two types of data files downloaded.
 
 **Annotator Demographics** are demographic information about the individual crowdsourced participants who labeled the Wikipedia text files.
