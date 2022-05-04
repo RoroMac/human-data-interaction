@@ -13,7 +13,7 @@ The datasets used in the main jupyter file can be found in annotationdatasets fo
 - attack_worker_demographics.tsv
 - toxicity_worker_demographics.tsv
 
-| **Data Variable | Description** |
+| **Data Variable** | **Description** |
 |-----------| ------------|
 | worker_id | Unique code attached to an individual annotator |
 | gender | Gender of the annotator; *male, female, other* |
@@ -26,7 +26,7 @@ The datasets used in the main jupyter file can be found in annotationdatasets fo
 **Annotation Datasets** are the Wikipedia text files with a score provided by the annotators to measure whether toxicity, aggression, or attack language is found within the text file.
 - toxicity_annotations.tsv
 
-| **Data Variable | Description** |
+| **Data Variable** | **Description** |
 |-----------| ------------|
 | rev_id | Unique code attached to each Wikipedia text comment |
 | worker_id | Unique code attached to an individual annotator |
